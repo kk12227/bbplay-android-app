@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBplay</string>
+    <string name="title_activity_main">BBplay</string>
+    <string name="package_name">ru.bbplay.app</string>
+    <string name="custom_url_scheme">ru.bbplay.app</string>
+</resources>
